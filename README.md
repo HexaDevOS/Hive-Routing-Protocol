@@ -3,7 +3,7 @@ Decentralized network improving online privacy &amp; security. Share bandwidth a
 
 ## Hive Protocol for Android
 
-The source code for **Hive Protocol (Android)** will be released under an **open-source license**, making it free to use and explore.
+The source code for Hive Protocol (Android) and its various operating system architectures will be released under an open-source license, making it free to use and explore.
 
 Access to **premium services** and the benefits of the **routing protocol** requires a valid license. Licenses are managed via the **Hive-Net License Manager** on the **Solana blockchain**.
 
