@@ -16,10 +16,12 @@ To unlock premium features, you’ll need to purchase a license either:
 
 ## License
 
-Hive-Routing-Protocol is open source software licensed under the
-[GNU General Public License v3.0](LICENSE).
+Hive-Routing-Protocol is open source software licensed under the Apache License 2.0.
 
-- **Open Source (GPL-3.0):** You are free to use, modify, and redistribute Hive-Routing-Protocol under the terms of GPL-3.0.
-- **Commercial Use:** HiveShield may provide commercial support or integration services for Hive-Routing-Protocol. Contact us if your organization requires a commercial license or enterprise support.
+Open Source (Apache 2.0): You are free to use, modify, distribute, sublicense, and commercially use Hive-Routing-Protocol in accordance with the Apache License 2.0.
 
-See the [LICENSE](LICENSE) file for full details.
+Patent Grant: The Apache License includes an explicit patent license for contributions made to this project.
+
+Commercial Use: HiveShield may offer commercial support, enterprise integrations, hosted services, or premium infrastructure related to Hive-Routing-Protocol.
+
+See the LICENSE file for full license details.
